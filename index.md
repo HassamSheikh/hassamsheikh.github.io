@@ -6,6 +6,6 @@ title: "About"
 layout: home
 author_profile: true
 ---
-My name is Hassam Ullah Sheikh. I am a third year PhD student at University of Central Florida in Orlando. My current research revolves around multi-agent learning especially training multi-agent reinforcement learning agents for security related problems using robots. My secondary research includes Bayesian learning, imitation learning and robot control.
+I am a research scientist at Intel Labs where I am working in the Deep Reinforcement Learning team. Before Intel Labs, I was a graduate student at University of Central Florida under Ladislau Boloni.
 
-Before coming to UCF, I was a Masters student in Advanced Artificial Intelligence at University of Manchester where I worked under Dr Ke Chen. Before that, I did my undergraduate in Computer Engineering at University of Engineering and Technology, Lahore, Pakistan.
+My current research interests revolve around multi-agent reinforcement learning, evolution guided reinforcement learning and more recently, offline reinforcement learning
