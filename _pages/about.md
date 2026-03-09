@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: >
   Software Engineer – Reinforcement Learning ·
   <a href="https://www.anyscale.com" target="_blank" rel="noopener">Anyscale</a>
