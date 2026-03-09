@@ -12,7 +12,7 @@ cv:
     - network: GitHub
       username: HassamSheikh
     - network: LinkedIn
-      username: hassam-sheikh
+      username: hassamsheikh
     - network: Google Scholar
       username: QTCAAGQAAAAJ
 
@@ -24,31 +24,18 @@ cv:
         area: Computer Science
         studyType: PhD
         start_date: 2016
-        end_date: 2022
+        end_date: 2020
         highlights:
           - "Dissertation: Stability in Multi-Agent Reinforcement Learning via Defensive Escort Teams"
           - "Advisor: Ladislau Bölöni"
 
-      - institution: University of Central Florida
-        location: Orlando, FL
-        area: Computer Science
-        studyType: MS
-        start_date: 2014
-        end_date: 2016
-
-      - institution: COMSATS University Islamabad
-        location: Islamabad, Pakistan
-        area: Computer Science
-        studyType: BS
-        start_date: 2009
-        end_date: 2013
 
     Experience:
       - company: Anyscale
         position: Software Engineer – Reinforcement Learning
-        location: Remote
+        location: San Francisco
         url: https://www.anyscale.com
-        start_date: 2024
+        start_date: 2025
         end_date: present
         summary: Technical owner of RLlib, the industry-standard distributed RL library.
         highlights:
@@ -57,7 +44,7 @@ cv:
 
       - company: Intel Labs
         position: Research Scientist
-        location: Hillsboro, OR (Remote)
+        location: Remote
         start_date: 2020
         end_date: 2024
         highlights:
@@ -69,7 +56,7 @@ cv:
         position: Graduate Research Assistant
         location: Orlando, FL
         start_date: 2016
-        end_date: 2022
+        end_date: 2020
         highlights:
           - Research on multi-agent reinforcement learning, robust escort teams, and ensemble Q-learning
           - Published at AAMAS, COMPSAC, NeurIPS workshop, ICML workshop
