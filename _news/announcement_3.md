@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-10
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper accepted at **ICLR 2022**: Maximizing Ensemble Diversity in Deep Reinforcement Learning.
