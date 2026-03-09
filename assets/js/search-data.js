@@ -37,56 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-post-quote",
-        
-          title: "Post: Quote",
-        
-        description: "A post demonstrating block quote formatting.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2016/post-quote/";
-          
-        },
-      },{id: "post-post-notice",
-        
-          title: "Post: Notice",
-        
-        description: "A post demonstrating various notice/callout styles.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2016/post-notice/";
-          
-        },
-      },{id: "post-post-standard",
-        
-          title: "Post: Standard",
-        
-        description: "A standard post demonstrating basic formatting and readability.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2016/post-standard/";
-          
-        },
-      },{id: "post-post-modified-date",
-        
-          title: "Post: Modified Date",
-        
-        description: "A post demonstrating modified date tracking.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2016/post-modified-date/";
-          
-        },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-phd-conferred-in-computer-science-from-university-of-central-florida-dissertation-multi-agent-reinforcement-learning-for-defensive-escort-teams",
+        },{id: "news-phd-conferred-in-computer-science-from-university-of-central-florida-dissertation-multi-agent-reinforcement-learning-for-defensive-escort-teams",
           title: 'PhD conferred in Computer Science from University of Central Florida. Dissertation: Multi-agent Reinforcement...',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-ijcnn-2022-learning-intrinsic-symbolic-rewards-in-reinforcement-learning",
@@ -132,41 +83,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_ecnet/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/HassamSheikh_Resume_Feb2025.pdf", "_blank");
-        },
-      },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%68%61%73%73%61%6D%73%68%65%69%6B%68%31@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/HassamSheikh", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/hassamsheikh", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=QTCAAGQAAAAJ", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
