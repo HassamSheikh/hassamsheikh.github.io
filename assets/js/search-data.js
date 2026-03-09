@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Research projects and engineering work.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "news-phd-conferred-in-computer-science-from-university-of-central-florida-dissertation-multi-agent-reinforcement-learning-for-defensive-escort-teams",
           title: 'PhD conferred in Computer Science from University of Central Florida. Dissertation: Multi-agent Reinforcement...',
           description: "",
