@@ -1,6 +1,34 @@
 // Custom dark theme overrides
 // Palette: #0d1117 bg, #161b22 surface, #00d4aa accent, #e6edf3 text
 
+// Typography
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-weight: 600;
+}
+
+code, pre, kbd, samp {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+.abbr .badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.45rem;
+}
+
+// Profile photo circular border accent
+.profile img {
+  border: 3px solid var(--global-theme-color);
+}
+
 // Override dark theme variables
 html[data-theme="dark"] {
   --global-bg-color: #0d1117;
@@ -15,30 +43,24 @@ html[data-theme="dark"] {
   --global-text-color: #e6edf3;
   --global-text-color-light: #8b949e;
   --global-card-bg-color: #161b22;
-}
+  --global-navbar-bg-color: #010409;
+  --global-distill-app-color: #00d4aa;
 
-// Publication entry hover accent
-.publications .bibliography li {
-  border-left: 3px solid transparent;
-  padding-left: 1rem;
-  transition: border-color 0.2s ease;
-  &:hover {
-    border-left-color: var(--global-theme-color);
+  // Venue badge styling
+  .abbr .badge,
+  .badge-primary {
+    background-color: rgba(0, 212, 170, 0.15);
+    color: #00d4aa;
+    border: 1px solid rgba(0, 212, 170, 0.3);
   }
-}
 
-// Profile photo circular border accent
-.profile-image img,
-img.profile-image {
-  border: 3px solid var(--global-theme-color);
-}
-
-// Venue badge styling
-.abbr .badge,
-.badge-primary {
-  background-color: rgba(0, 212, 170, 0.15) !important;
-  color: #00d4aa !important;
-  border: 1px solid rgba(0, 212, 170, 0.3);
-  font-size: 0.7rem;
-  letter-spacing: 0.04em;
+  // Publication entry hover accent
+  .publications .bibliography li {
+    border-left: 3px solid transparent;
+    padding-left: 1rem;
+    transition: border-color 0.2s ease;
+    &:hover {
+      border-left-color: var(--global-theme-color);
+    }
+  }
 }
