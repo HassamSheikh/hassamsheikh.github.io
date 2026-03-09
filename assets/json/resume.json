@@ -82,10 +82,7 @@
       "startDate": "2016-08",
       "endDate": "2020-12",
       "score": "",
-      "courses": [
-        "Dissertation: Multi-agent Reinforcement Learning for Defensive Escort Teams",
-        "Advisor: Ladislau Bölöni"
-      ]
+      "courses": ["Dissertation: Multi-agent Reinforcement Learning for Defensive Escort Teams", "Advisor: Ladislau Bölöni"]
     },
     {
       "institution": "University of Manchester",
@@ -94,9 +91,7 @@
       "startDate": "2012-09",
       "endDate": "2013-09",
       "score": "",
-      "courses": [
-        "Thesis: Who is Speaking? Male or Female"
-      ]
+      "courses": ["Thesis: Who is Speaking? Male or Female"]
     },
     {
       "institution": "University of Engineering & Technology, Lahore",
@@ -105,9 +100,7 @@
       "startDate": "2008-08",
       "endDate": "2012-06",
       "score": "",
-      "courses": [
-        "Senior Project: Speech-Controlled Android Robot with Vision"
-      ]
+      "courses": ["Senior Project: Speech-Controlled Android Robot with Vision"]
     }
   ],
   "publications": [
