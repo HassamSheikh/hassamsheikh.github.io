@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://hassamsheikh.github.io/sitemap.xml
