@@ -1,0 +1,44 @@
+// Custom dark theme overrides
+// Palette: #0d1117 bg, #161b22 surface, #00d4aa accent, #e6edf3 text
+
+// Override dark theme variables
+html[data-theme="dark"] {
+  --global-bg-color: #0d1117;
+  --global-code-bg-color: #161b22;
+  --global-theme-color: #00d4aa;
+  --global-hover-color: #00d4aa;
+  --global-hover-text-color: #0d1117;
+  --global-footer-bg-color: #010409;
+  --global-footer-text-color: #8b949e;
+  --global-footer-link-color: #00d4aa;
+  --global-divider-color: #30363d;
+  --global-text-color: #e6edf3;
+  --global-text-color-light: #8b949e;
+  --global-card-bg-color: #161b22;
+}
+
+// Publication entry hover accent
+.publications .bibliography li {
+  border-left: 3px solid transparent;
+  padding-left: 1rem;
+  transition: border-color 0.2s ease;
+  &:hover {
+    border-left-color: var(--global-theme-color);
+  }
+}
+
+// Profile photo circular border accent
+.profile-image img,
+img.profile-image {
+  border: 3px solid var(--global-theme-color);
+}
+
+// Venue badge styling
+.abbr .badge,
+.badge-primary {
+  background-color: rgba(0, 212, 170, 0.15) !important;
+  color: #00d4aa !important;
+  border: 1px solid rgba(0, 212, 170, 0.3);
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+}
