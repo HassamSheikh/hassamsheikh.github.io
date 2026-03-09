@@ -1,12 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
+cv_pdf: HassamSheikh_Resume_Feb2025.pdf
+description: PhD in Computer Science (UCF, 2020). SWE-RL at Anyscale. Former Research Scientist at Intel Labs. Publications at ICML, ICLR, IJCNN, AAMAS.
 ---
