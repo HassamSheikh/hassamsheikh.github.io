@@ -1,7 +1,2 @@
-main:
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /posts/
-  - title: "Publications"
-    url: /publications/
+# Navigation is handled by al-folio via page front matter (nav: true, nav_order).
+# This file intentionally left without a main: key to avoid duplicate nav items.
