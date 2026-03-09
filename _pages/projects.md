@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Research projects and engineering work.
-nav: true
+nav: false
 nav_order: 4
 display_categories: [systems, research]
 horizontal: false
