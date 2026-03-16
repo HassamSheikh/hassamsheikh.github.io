@@ -1,3 +1,67 @@
 metadata:
-  last_updated: '2026-03-09'
-papers: {}
+  last_updated: '2026-03-16'
+papers:
+  QTCAAGQAAAAJ:4DMP91E08xMC:
+    citations: 1
+    title: The Emergence of Complex Bodyguard Behavior Through Multi-Agent Reinforcement Learning
+    year: '2018'
+  QTCAAGQAAAAJ:9ZlFYXVOiuMC:
+    citations: 6
+    title: Emergence of scenario-appropriate collaborative behaviors for teams of robotic bodyguards
+    year: '2018'
+  QTCAAGQAAAAJ:KlAtU1dfN6UC:
+    citations: 9
+    title: 'Interaction and behaviour evaluation for smart homes: Data collection and analytics in the ScaledHome project'
+    year: '2020'
+  QTCAAGQAAAAJ:L8Ckcad2t8MC:
+    citations: 13
+    title: 'DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning'
+    year: '2022'
+  QTCAAGQAAAAJ:LkGwnXOMwfcC:
+    citations: 69
+    title: Multi-Agent Reinforcement Learning for Problems with Combined Individual and Team Reward
+    year: '2020'
+  QTCAAGQAAAAJ:MXK_kJrjxJIC:
+    citations: 14
+    title: Learning Intrinsic Symbolic Rewards in Reinforcement Learning
+    year: '2022'
+  QTCAAGQAAAAJ:Tyk-4Ss8FVUC:
+    citations: 12
+    title: Learning distributed cooperative policies for security games via deep reinforcement learning
+    year: '2019'
+  QTCAAGQAAAAJ:YOwf2qJgpHMC:
+    citations: 7
+    title: Minimizing Communication while Maximizing Performance in Multi-Agent Reinforcement Learning
+    year: '2021'
+  QTCAAGQAAAAJ:ZeXyd9-uunAC:
+    citations: 1
+    title: Universal Policies to Learn Them All
+    year: '2019'
+  QTCAAGQAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: Multi-agent Reinforcement Learning for Defensive Escort Teams
+    year: '2021'
+  QTCAAGQAAAAJ:_kc_bZDykSQC:
+    citations: 6
+    title: Designing a multi-objective reward function for creating teams of robotic bodyguards using deep reinforcement learning
+    year: '2018'
+  QTCAAGQAAAAJ:dhFuZR0502QC:
+    citations: 25
+    title: Maximizing Ensemble Diversity in Deep Reinforcement Learning
+    year: '2022'
+  QTCAAGQAAAAJ:hC7cP41nSMkC:
+    citations: 1
+    title: Overview of Speech Based Gender Identification
+    year: '2014'
+  QTCAAGQAAAAJ:qUcmZB5y_30C:
+    citations: 1
+    title: System and method for controlling inter-agent communication in multi-agent systems
+    year: '2022'
+  QTCAAGQAAAAJ:u-x6o8ySG0sC:
+    citations: 2
+    title: Who is speaking? Male or female
+    year: '2013'
+  QTCAAGQAAAAJ:u5HHmVD_uO8C:
+    citations: 10
+    title: Automatic feature extraction, categorization and detection of malicious code in Android applications
+    year: '2014'
