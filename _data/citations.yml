@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-24'
 papers:
   QTCAAGQAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -22,11 +22,11 @@ papers:
     title: Multi-Agent Reinforcement Learning for Problems with Combined Individual and Team Reward
     year: '2020'
   QTCAAGQAAAAJ:MXK_kJrjxJIC:
-    citations: 14
+    citations: 15
     title: Learning Intrinsic Symbolic Rewards in Reinforcement Learning
     year: '2022'
   QTCAAGQAAAAJ:Tyk-4Ss8FVUC:
-    citations: 12
+    citations: 13
     title: Learning distributed cooperative policies for security games via deep reinforcement learning
     year: '2019'
   QTCAAGQAAAAJ:YOwf2qJgpHMC:
