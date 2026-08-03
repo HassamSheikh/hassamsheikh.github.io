@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-03'
 papers:
   QTCAAGQAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -14,11 +14,11 @@ papers:
     title: 'Interaction and behaviour evaluation for smart homes: Data collection and analytics in the ScaledHome project'
     year: '2020'
   QTCAAGQAAAAJ:L8Ckcad2t8MC:
-    citations: 13
+    citations: 14
     title: 'DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning'
     year: '2022'
   QTCAAGQAAAAJ:LkGwnXOMwfcC:
-    citations: 74
+    citations: 73
     title: Multi-Agent Reinforcement Learning for Problems with Combined Individual and Team Reward
     year: '2020'
   QTCAAGQAAAAJ:MXK_kJrjxJIC:
@@ -46,11 +46,11 @@ papers:
     title: Designing a multi-objective reward function for creating teams of robotic bodyguards using deep reinforcement learning
     year: '2018'
   QTCAAGQAAAAJ:dhFuZR0502QC:
-    citations: 27
+    citations: 28
     title: Maximizing Ensemble Diversity in Deep Reinforcement Learning
     year: '2022'
   QTCAAGQAAAAJ:hC7cP41nSMkC:
-    citations: 1
+    citations: 0
     title: Overview of Speech Based Gender Identification
     year: '2014'
   QTCAAGQAAAAJ:qUcmZB5y_30C:
@@ -62,6 +62,6 @@ papers:
     title: Who is speaking? Male or female
     year: '2013'
   QTCAAGQAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 9
     title: Automatic feature extraction, categorization and detection of malicious code in Android applications
     year: '2014'
