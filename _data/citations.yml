@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   QTCAAGQAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: 'DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning'
     year: '2022'
   QTCAAGQAAAAJ:LkGwnXOMwfcC:
-    citations: 73
+    citations: 74
     title: Multi-Agent Reinforcement Learning for Problems with Combined Individual and Team Reward
     year: '2020'
   QTCAAGQAAAAJ:MXK_kJrjxJIC:
