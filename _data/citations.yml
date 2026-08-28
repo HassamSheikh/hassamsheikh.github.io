@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-28'
 papers:
   QTCAAGQAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -18,11 +18,11 @@ papers:
     title: 'DNS: Determinantal Point Process Based Neural Network Sampler for Ensemble Reinforcement Learning'
     year: '2022'
   QTCAAGQAAAAJ:LkGwnXOMwfcC:
-    citations: 74
+    citations: 76
     title: Multi-Agent Reinforcement Learning for Problems with Combined Individual and Team Reward
     year: '2020'
   QTCAAGQAAAAJ:MXK_kJrjxJIC:
-    citations: 15
+    citations: 16
     title: Learning Intrinsic Symbolic Rewards in Reinforcement Learning
     year: '2022'
   QTCAAGQAAAAJ:Tyk-4Ss8FVUC:
